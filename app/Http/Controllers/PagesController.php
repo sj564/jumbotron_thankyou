@@ -1,4 +1,4 @@
-?php
+<?php
 
 namespace App\Http\Controllers;
 
@@ -27,6 +27,10 @@ return view('pages.signin');
 function signup()
 {
 return view('pages.signup');
+}
+function viewmessage()
+{
+return view('pages.viewmessage');
 }
 
 
