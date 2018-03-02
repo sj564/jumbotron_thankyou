@@ -6,40 +6,43 @@ use Illuminate\Http\Request;
 
 class PagesController extends Controller
 {
-function index()
-{
-return view('pages.index');
-}
+    function index()
+    {
+        return view('pages.index');
+    }
 
-function about()
-{
-return view('pages.about');
-}
+    function about()
+    {
+        return view('pages.about');
+    }
 
-function contact()
-{
-return view('pages.contact');
-}
-function signin()
-{
-return view('pages.signin');
-}
-function signup()
-{
-return view('pages.signup');
-}
+    function contact()
+    {
+        return view('pages.contact');
+    }
+
+    function signin()
+    {
+        return view('pages.signin');
+    }
+
+    function signup()
+    {
+        return view('pages.signup');
+    }
 
 
-function store(Request $request)
-{
-$name = $request->name;
+    function store(Request $request)
+    {
+        $name = $request->name;
 
-return redirect()->route('thanks', ['name' => $name]);
-}
+        return redirect()->route('thanks', ['name' => $name]);
+    }
 
-function thanks($name, Request $request)
-{
+    function thanks($name, Request $request)
+    {
 
-return view('pages.thankyou')->with(compact('name'));
+        return view('pages.thankyou')->with(compact('name'));
 
+    }
 }
