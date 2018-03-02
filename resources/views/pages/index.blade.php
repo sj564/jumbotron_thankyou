@@ -7,8 +7,8 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
         <div class="container">
-            <h1 class="display-3">Hello, world!</h1>
-            <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+            <h1 class="display-3">The WACA Ground at Perth</h1>
+            <p>A Recollection of the Time when WACA Made its Debut</p>
             <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
         </div>
     </div>
@@ -17,18 +17,18 @@
         <!-- Example row of columns -->
         <div class="row">
             <div class="col-md-4">
-                <h2>Heading</h2>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <h2>The WACA debut</h2>
+                <p>Geoff Havercroft was a young first-grade cricketer in Perth when Ray Illingworth's England side arrived to play the second Test of the 1970-71 Ashes series. He can still remember the atmosphere in the city on December 11 as the start of that game, the first Test in the city, approached: "There was a tremendous sense of excitement about the event among the wider Perth and regional community, not just the cricketing fraternity."</p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
             <div class="col-md-4">
-                <h2>Heading</h2>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <h2>The Premise</h2>
+                <p>Roads leading to the ground were gridlocked for several hours leading up to the start of the game. The overall match attendance of just over 84,000 stood as a record for over 30 years. </p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
             <div class="col-md-4">
-                <h2>Heading</h2>
-                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+                <h2>The afterthought</h2>
+                <p>Although the cricket was often slow, Perth's first Test was judged to be a success and the WACA ground would become a permanent fixture in the Test calendar. "Securing Test match status was probably the last pillar in our strive for recognition," </p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
         </div>
